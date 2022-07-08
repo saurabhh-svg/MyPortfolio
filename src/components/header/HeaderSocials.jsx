@@ -5,7 +5,7 @@ import { SiCodeforces } from "react-icons/si";
 
 const HeaderSocials = () => {
   return (
-    <div className="header_socials">
+    <div className="header__socials">
       <a
         href="https://www.linkedin.com/in/saurabh-singh-82287a201/"
         target="_blank"
