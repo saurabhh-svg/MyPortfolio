@@ -22,13 +22,13 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5> Experience</h5>
-              <small>0+ years Working</small>
+              <small>2+ Months Working</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5> Clients</h5>
-              <small>10+ worldwide</small>
+              <h5> Community</h5>
+              <small>100+ Peoples</small>
             </article>
 
             <article className="about__card">
@@ -38,8 +38,8 @@ const About = () => {
             </article>
           </div>
           <p>
-            lorem epsimfndvs vs v v sdvbjksbvjksbv dsvdsv ds vnsbvbkv sdv sd vds
-            hv lorem300 dkvdnsk vmdknv
+            A self taught coder and a proficient Web Developer. Love problem
+            Solving and analysis.
           </p>
 
           <a href="contact" className="btn btn-primary">
