@@ -6,7 +6,6 @@ import Experience from "./components/experience/Experience.jsx";
 import Nav from "./components/nav/Nav.jsx";
 import Footer from "./components/footer/Footer.jsx";
 import Services from "./components/services/Services.jsx";
-import Testimonials from "./components/testimonials/Testimonials.jsx";
 import Portfolio from "./components/portfolio/Portfolio.jsx";
 
 const App = () => {
