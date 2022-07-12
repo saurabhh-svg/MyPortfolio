@@ -45,5 +45,6 @@
   .portfolio__container {
     grid-template-columns: 1fr;
     gap: 1 rem;
+    padding: 1.6rem;
   }
 }
