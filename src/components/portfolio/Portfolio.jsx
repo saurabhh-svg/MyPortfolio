@@ -3,9 +3,6 @@ import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
 
 const data = [
   {
@@ -24,17 +21,10 @@ const data = [
   },
   {
     id: 3,
-    image: IMG5,
+    image: IMG3,
     title: "Charts templates&infographics in Figma",
     github: "https://github.com",
     demo: "https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Charts templates&infographics in Figma",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma",
   },
 ];
 

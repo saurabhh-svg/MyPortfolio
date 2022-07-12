@@ -46,6 +46,11 @@ header {
   padding: 5rem 1.5rem 1.5rem;
 }
 
+.mee {
+  left: calc(50% - 11rem);
+  border-radius: 12rem 12rem 0 0;
+}
+
 .scroll__down {
   position: absolute;
   right: -1rem;

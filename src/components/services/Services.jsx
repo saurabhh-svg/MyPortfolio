@@ -10,24 +10,24 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX design</h3>
+            <h3>Data Structure and Algorithms</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>Solved 250+ Leetcode questions</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>Pupil at Codeforces with max rating of 1256</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>3 Star at Codechef at with max rating of 1787</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>Highly Skilled in Puzzle solving</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -42,16 +42,16 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Communication</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>Fluent in English</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p></p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -79,7 +79,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>BackEnd Development is my speciallity </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />

@@ -22,13 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5> Experience</h5>
-              <small>2+ Months Working</small>
-            </article>
-
-            <article className="about__card">
-              <FiUsers className="about__icon" />
-              <h5> Community</h5>
-              <small>100+ Peoples</small>
+              <small>2+ Months </small>
             </article>
 
             <article className="about__card">
@@ -36,10 +30,19 @@ const About = () => {
               <h5>Projects</h5>
               <small>4+ Completed</small>
             </article>
+
+            <article className="about__card">
+              <FiUsers className="about__icon" />
+              <h5> Competitive Coding</h5>
+              <small>Pupil at Codeforces</small>
+            </article>
           </div>
           <p>
             A self taught coder and a proficient Web Developer. Love problem
-            Solving and analysis.
+            Solving and analysis. My greatest strength is my communication and
+            presentation skills, also my ability to mix-up and catchup with new
+            peoples around me.Working in a team where everybody is trying to do
+            their best makes me highly motivated and brings out best within me.
           </p>
 
           <a href="contact" className="btn btn-primary">
