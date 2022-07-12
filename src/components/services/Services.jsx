@@ -5,12 +5,12 @@ import { BiCheck } from "react-icons/bi";
 const Services = () => {
   return (
     <section id="services">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>What I do</h5>
+      <h2>Knowledge</h2>
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Data Structure and Algorithms</h3>
+            <h3>DSA</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -29,77 +29,57 @@ const Services = () => {
               <BiCheck className="service__list-icon" />
               <p>Highly Skilled in Puzzle solving</p>
             </li>
+          </ul>
+        </article>
+
+        <article className="service">
+          <div className="service__head">
+            <h3>Fundamentals</h3>
+          </div>
+          <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>OOPS</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p> DataBase Management</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Operating Systems</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Computer Networks</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>English(Fluent)</p>
             </li>
           </ul>
         </article>
 
         <article className="service">
           <div className="service__head">
-            <h3>Communication</h3>
+            <h3>Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Fluent in English</p>
+              <p>CRUD Applications </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p></p>
+              <p>Testing of Apis</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>FrontEnd Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-          </ul>
-        </article>
-
-        <article className="service">
-          <div className="service__head">
-            <h3>Web Development</h3>
-          </div>
-          <ul className="service__list">
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>BackEnd Development is my speciallity </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem lorem erkenfkenfkenkfnekfneknfkenkf</p>
+              <p>Javascript </p>
             </li>
           </ul>
         </article>
