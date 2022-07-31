@@ -8,23 +8,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Social Book",
-    github: "https://github.com/saurabhh-svg/SocialBook",
-    demo: "https://una-diary.web.app/",
+    title: "Budget Calcy",
+    github: "https://github.com/saurabhh-svg/budget-calcy",
+    demo: "https://bugetcalcy.netlify.app/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Memories",
-    github: "https://github.com/saurabhh-svg/Memories",
-    demo: "https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma",
+    title: "College Memories",
+    github: "https://github.com/saurabhh-svg/CollegeDiary-Backend",
+    demo: "https://college-diiary.herokuapp.com/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Contests",
     github: "https://github.com/saurabhh-svg/contests",
-    demo: "https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma",
+    demo: "https://github.com/saurabhh-svg/contests",
   },
 ];
 
