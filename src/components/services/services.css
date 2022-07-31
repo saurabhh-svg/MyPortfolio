@@ -63,8 +63,10 @@
 /*MOBILES*/
 
 @media screen and (max-width: 600px) {
-  .service__container {
+  .services__container {
+    grid-template-rows: repeat(3,1fr);
     grid-template-columns: 1fr;
     gap: 1.5 rem;
+    padding: 1.6rem;
   }
 }

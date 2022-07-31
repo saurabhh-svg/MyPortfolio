@@ -89,13 +89,15 @@
     margin: 0 auto 3rem;
   }
   .about__cards {
-    grid-template-columns: 1lr 1fr;
+    grid-template-columns: unset;
     gap: 1rem;
+    padding: 1.6rem;
   }
   .about__content {
     text-align: center;
+
   }
   .about__content p {
-    margin: 1rem 0;
+    margin: 1rem 1.6rem;
   }
 }

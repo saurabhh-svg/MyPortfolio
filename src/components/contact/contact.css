@@ -1,10 +1,18 @@
-.container.contact__container {
+
+
+.contact__container {
   width: 58%;
   display: grid;
-  grid-template-columns: 30% 58%;
+  grid-template-columns: 1fr 2fr;
   gap: 12%;
 }
-
+@media screen and (max-width:600px) {
+  .contact__container{
+    width: var(--container-width-sm);
+    grid-template-columns: 1fr;
+    padding: 1.6rem;
+  }
+}
 .contact__options {
   display: flex;
   flex-direction: column;
@@ -52,13 +60,8 @@ textarea {
 }
 
 @media screen and(max-width:1024px) {
-  .container.contact__container {
+  .contact__container {
     grid-template-columns: 1fr;
     gap: 2rem;
-  }
-}
-@media screen and(max-width:600px) {
-  .container.contact__container {
-    width: var(--container-width-sm);
   }
 }
