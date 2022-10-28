@@ -79,10 +79,10 @@ const Services = () => {
               <p>CRUD Applications </p>
             </li>
             <li>
-              <li>
-                <BiCheck className="service__list-icon" />
-                <p>ReactJS</p>
-              </li>
+              <BiCheck className="service__list-icon" />
+              <p>ReactJs</p>
+            </li>
+            <li>
               <BiCheck className="service__list-icon" />
               <p>Testing of APIs</p>
             </li>
