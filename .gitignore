@@ -1,1 +1,7 @@
 node_modules
+.idea/modules.xml
+.gitignore
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/MyPortfolio.iml
+.DS_Store

@@ -7,15 +7,8 @@ const Testimonials = () => {
       Testimonials
       <h5>Review from clients</h5>
       <h2>Testimonials</h2>
-
       <div className="container testimonials__container">
-        <article className="testimonial">
-        
-        
-        
-        
-        </article>
-      
+        <article className="testimonial"></article>
       </div>
     </div>
   );
