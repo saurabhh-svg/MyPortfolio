@@ -15,7 +15,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Solved 500+ Leetcode questions</p>
+              <p>Solved 1500+ questions combined</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -60,6 +60,10 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
+              <p>Cloud Computing</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
               <p>Computer Networks</p>
             </li>
             <li>
@@ -93,6 +97,14 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>Javascript </p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Playwright </p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Docker </p>
             </li>
           </ul>
         </article>

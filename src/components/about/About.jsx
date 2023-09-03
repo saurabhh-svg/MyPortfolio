@@ -22,7 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5> Experience</h5>
-              <small>6+ Months Software Developer</small>
+              <small>9+ Months Software Developer</small>
             </article>
 
             <article className="about__card">
@@ -35,14 +35,33 @@ const About = () => {
               <FiUsers className="about__icon" />
               <h5> Competitive Coding</h5>
               <small>Pupil at Codeforces</small>
+              <hr />
+              <small>4* at Codechef</small>
             </article>
           </div>
           <p>
-            A self taught coder and a proficient Web Developer. Love problem
-            Solving and analysis. My greatest strength is my communication and
-            presentation skills, also my ability to mix-up and catchup with new
-            peoples around me.Working in a team where everybody is trying to do
-            their best makes me highly motivated and brings out best within me.
+            Saurabh is a software engineer intern at Signzy, a leading
+            AI-powered digital trust platform. Earlier he worked with the core
+            team to develop and optimize web applications and APIs using
+            ReactJs, NodeJs, Express, and other technologies. He has contributed
+            to multiple projects the user interface and the performance of the
+            platform.
+          </p>
+          <p>
+            He is also pursuing his Bachelor of Technology degree in Computer
+            Science from the Indian Institute of Information Technology Una,
+            where he is the placement coordinator at the Career Development
+            Cell. He has a strong interest in competitive coding and has
+            participated in several coding contests and hackathons, such as
+            Flipkart Grid 4.0, where he received a certification. He is
+            proficient in C/C++, Java, JavaScript, SQL, HTML, CSS, and various
+            frameworks and tools. He is a team player with strong communication
+            skills, quick learning abilities, and a desire to work in a
+            competitive environment.
+          </p>
+          <p>
+            He seeks challenging assignments that offer job satisfaction, steady
+            professional growth, and continuous learning for self-development.
           </p>
 
           <a href="contact" className="btn btn-primary">
