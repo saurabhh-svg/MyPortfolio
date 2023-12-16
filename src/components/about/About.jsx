@@ -1,6 +1,7 @@
 import React from "react";
 import "./about.css";
 import ME from "../../assets/me.jpg";
+import award from "../../assets/award.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -13,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Image"></img>
+            <img src={award} alt="About Image"></img>
           </div>
         </div>
 
@@ -22,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5> Experience</h5>
-              <small>9+ Months Software Developer</small>
+              <small>11+ Months as a Software Engineer</small>
             </article>
 
             <article className="about__card">
@@ -40,30 +41,33 @@ const About = () => {
             </article>
           </div>
           <p>
-            Saurabh is a software engineer intern at Signzy, a leading
-            AI-powered digital trust platform. Earlier he worked with the core
-            team to develop and optimize web applications and APIs using
-            ReactJs, NodeJs, Express, and other technologies. He has contributed
-            to multiple projects the user interface and the performance of the
-            platform.
+            As a dedicated and innovative Software Development Engineer (SDE),
+            Saurabh brings over 1 year of experience to the dynamic realm of
+            technology. With a strong foundation gained during an impactful
+            tenure as a Backend Intern at MPL and previous roles at Signzy and
+            Juntrax, he has honed his expertise in crafting robust and scalable
+            backend solutions.
           </p>
           <p>
-            He is also pursuing his Bachelor of Technology degree in Computer
-            Science from the Indian Institute of Information Technology Una,
-            where he is the placement coordinator at the Career Development
-            Cell. He has a strong interest in competitive coding and has
-            participated in several coding contests and hackathons, such as
-            Flipkart Grid 4.0, where he received a certification. He is
-            proficient in C/C++, Java, JavaScript, SQL, HTML, CSS, and various
-            frameworks and tools. He is a team player with strong communication
-            skills, quick learning abilities, and a desire to work in a
-            competitive environment.
+            Saurabh's proficiency extends across the spectrum of modern
+            technologies, including the MERN stack, microservices architecture,
+            and automation tools like Playwright. Their contributions to the
+            development of an unassisted VKYC product and streamlining testing
+            processes showcase not only technical prowess but also a commitment
+            to driving efficiency and quality.
           </p>
           <p>
-            He seeks challenging assignments that offer job satisfaction, steady
-            professional growth, and continuous learning for self-development.
+            Open to new opportunities, Saurabh is actively seeking SDE roles
+            where they can leverage their skills to contribute meaningfully to
+            innovative projects. With a passion for staying at the forefront of
+            technological advancements, he is eager to bring their unique blend
+            of skills and experiences to a dynamic team.
           </p>
-
+          <p>
+            Let's connect and explore how Saurabh's technical acumen and
+            collaborative spirit can contribute to the success of your next
+            project.
+          </p>
           <a href="contact" className="btn btn-primary">
             {" "}
             Let's Talk
